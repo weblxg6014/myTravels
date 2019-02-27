@@ -1,0 +1,22 @@
+{
+  "name": "mytravels",
+  "version": "1.0.0",
+  "description": "旅游网站",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weblxg6014/myTravels.git"
+  },
+  "keywords": [
+    "qwe199403280"
+  ],
+  "author": "weblxg6014",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weblxg6014/myTravels/issues"
+  },
+  "homepage": "https://github.com/weblxg6014/myTravels#readme"
+}
